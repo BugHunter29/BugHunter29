@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BugHunter29
+- 👋 Hi, I’m BugHunter29
 - 👀 I’m interested in C# and Python
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
